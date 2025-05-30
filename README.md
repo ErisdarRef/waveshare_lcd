@@ -83,3 +83,7 @@ See the [Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/l
 ## Troubleshooting
 
 For any technical queries, please open an [issue](https://github.com/espressif/esp-iot-solution/issues) on GitHub. We will get back to you soon.
+
+# Version History
+
+- _(pending)_ v0 - Imported & deployed through VS-Code with console record
