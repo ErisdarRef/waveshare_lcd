@@ -11,7 +11,9 @@
     ICSP: USB-OTG ('JTAG')
     
 @section    Demo 
-
+	
+	Select Music Demo (main.c Defs)
+	
     Run the application in debug mode through VS-Code, capturing the console output to PuTTy or VS-Code Terminal.
 
 @section    Notes
@@ -22,6 +24,5 @@
     x
 
 @section    Opens
-    
-	Complete & report working initial 'v0' demonstration
+    x
 

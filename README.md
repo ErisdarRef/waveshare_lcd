@@ -76,7 +76,7 @@ Run `idf.py -p PORT build flash monitor` to build, flash and monitor the project
 
 The first time you run `idf.py` for the example will cost extra time as the build system needs to address the component dependencies and downloads the missing components from registry into `managed_components` folder.
 
-(To exit the serial mo(peitor, type ``Ctrl-]``.)
+(To exit the serial monitor, type ``Ctrl-]``.)
 
 See the [Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for full steps to configure and use ESP-IDF to build projects.
 
@@ -86,5 +86,5 @@ For any technical queries, please open an [issue](https://github.com/espressif/e
 
 # Version History
 
-- _(pending)_ v0 - Imported & deployed through VS-Code with console record
+- v0.music - Imported & deployed through VS-Code with console record
 
