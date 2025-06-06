@@ -88,3 +88,5 @@ For any technical queries, please open an [issue](https://github.com/espressif/e
 
 - v0.music - Imported & deployed through VS-Code with console record
 
+- v0.benchmark - Update application to benchmark demo
+
