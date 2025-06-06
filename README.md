@@ -1,3 +1,18 @@
+# waveshare_lcd
+
+Detailed demonstration of published Waveshare lcd demos for [ESP32-S3-Touch](https://www.waveshare.com/esp32-s3-touch-lcd-4.3b.htm) module
+
+# Version History
+
+* v0 - Sample demonstration all (5) demo options with report
+  * _v0.music_ - Imported & deployed through VS-Code with console record
+  * _v0.benchmark_ - Update application to benchmark demo
+  * _v0.stress_ - Update to stress test demo
+  * _v0.demo_ - change to demo_ui fort test
+  * _v0.widgets_ - Update application demo to widgets
+
+# 08_lvgl_Porting
+
 | Supported Targets | ESP32-S3 |
 | ----------------- | -------- |
 
@@ -6,12 +21,6 @@
 
 | Supported Touch Controller  |  GT911 |
 | ----------------------------| -------|
-
-# Opens
-
-1. Clean readme!
-
-2. Create Espressif-IDE project
 
 # RGB Avoid Tearing Example
 
@@ -79,14 +88,3 @@ The first time you run `idf.py` for the example will cost extra time as the buil
 (To exit the serial monitor, type ``Ctrl-]``.)
 
 See the [Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for full steps to configure and use ESP-IDF to build projects.
-
-## Troubleshooting
-
-For any technical queries, please open an [issue](https://github.com/espressif/esp-iot-solution/issues) on GitHub. We will get back to you soon.
-
-# Version History
-
-- v0.music - Imported & deployed through VS-Code with console record
-
-- v0.widgets - Update application demo to widgets
-
