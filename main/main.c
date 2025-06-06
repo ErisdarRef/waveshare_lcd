@@ -32,8 +32,8 @@
 //Demo Select
 //#define USE_STRESS_DEMO                           /* how waveshare demo was published, pick one */
 //#define USE_BENCHMARK_DEMO
-#define USE_MUSIC_DEMO
-//#define USE_WIDGETS_DEMO
+//#define USE_MUSIC_DEMO
+#define USE_WIDGETS_DEMO
 //#define USE_UI_DEMO
 
 
