@@ -12,7 +12,7 @@
     
 @section    Demo 
 	
-	Select Music Demo (main.c Defs)
+	Select Demo-UI Demo (main.c Defs)
 	
     Run the application in debug mode through VS-Code, capturing the console output to PuTTy or VS-Code Terminal.
 
